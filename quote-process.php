@@ -34,7 +34,7 @@
 	$success = '';
 	if (!$errormsg){
 		//change recipient email and subject here
-		$to = "mahbubrmn99@gmail.com";
+		$to = "mahbubrmn45@gmail.com";
 		$subject = "New AboutMe Demo Quote Request Form Submitted";	
 		
 		//prepare email body
