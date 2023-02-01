@@ -3004,6 +3004,9 @@ aside#sidebar .title-box {
     font-size: 14px;
 }
 a.footer-site-link {
+    color: #04B962;
+}
+a.footer-site-link:hover{
     color: #fff;
 }
 
